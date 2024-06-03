@@ -72,7 +72,7 @@
         fill: #01AAFF;
     }
 
-    @keyframes wave { to {transform: translateX(-100%);} }
+    @keyframes wave { to { transform: translateX(-100%); } }
 
     </style>
 
