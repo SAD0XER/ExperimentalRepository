@@ -1,5 +1,2 @@
 asdsadfasdflaskdjf;lkajsdf;lkjsd;flkj
-;laksjd;flkjs;df
-;lsdkjf;lkajdsf'
-;ljasd;lfkj;lsdf
-;ljasd;flkjasl;d
+This is the test 1: Rebasing remote repository.
